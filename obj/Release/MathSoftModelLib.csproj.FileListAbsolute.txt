@@ -1,0 +1,11 @@
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftModelLib\bin\Release\MathSoftModelLib.dll
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftModelLib\bin\Release\MathSoftModelLib.pdb
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftModelLib\obj\Release\MathSoftModelLib.dll
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftModelLib\obj\Release\MathSoftModelLib.pdb
+A:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftModelLib\obj\Release\MathSoftModelLib.csproj.CoreCompileInputs.cache
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftModelLib\bin\Release\MathSoftModelLib.dll
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftModelLib\bin\Release\MathSoftModelLib.pdb
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftModelLib\obj\Release\MathSoftModelLib.csproj.CoreCompileInputs.cache
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftModelLib\obj\Release\MathSoftModelLib.dll
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftModelLib\obj\Release\MathSoftModelLib.pdb
+D:\正式_马良代码开源项目\MathSoftCommonLib45\MathSoftModelLib\obj\Release\MathSoftModelLib.csprojAssemblyReference.cache
